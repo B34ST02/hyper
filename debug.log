@@ -1,0 +1,3 @@
+[0804/044031.375:ERROR:file_io_win.cc(161)] CreateFile C:\Users\daff\AppData\Local\Temp\puppeteer_dev_chrome_profile-QZsQVM\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0804/044031.376:ERROR:file_io_win.cc(170)] CreateFile C:\Users\daff\AppData\Local\Temp\puppeteer_dev_chrome_profile-QZsQVM\Crashpad\reports\15136a60-16cf-4178-a3d6-342eb4a41caa.dmp: The system cannot find the path specified. (0x3)
+[0804/044031.376:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
