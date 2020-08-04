@@ -36,7 +36,7 @@
   "description": "Detects what package manager executes the process",
   "devDependencies": {
     "execa": "^0.6.3",
-    "npm": "^4.4.4",
+    "npm": "^6.14.7",
     "pnpm": "^0.64.3",
     "tape": "^4.6.3",
     "yarn": "^0.22.0"
